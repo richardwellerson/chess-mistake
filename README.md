@@ -52,8 +52,8 @@ pnpm run dev
 
 ## 🎯 MVP Roadmap
 
-- [x] PGN upload and parsing
-- [x] Stockfish integration for blunder detection
+- [ ] PGN upload and parsing
+- [ ] Stockfish integration for blunder detection
 - [ ] AI-powered natural language explanations
 - [ ] Tactical pattern recognition (forks, pins, etc.)
 - [ ] UI to view and replay games with annotations
